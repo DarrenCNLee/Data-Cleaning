@@ -1,6 +1,6 @@
 # Data Cleaning and Exploratory Data Analysis
 
-Data cleaning and exploratory data analysis project for a tech layoffs dataset from COVID-2019 to present.
+Data cleaning and exploratory data analysis project for a tech layoffs dataset from COVID-2019 to 2023.
 
 https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
